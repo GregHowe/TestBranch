@@ -1,0 +1,14 @@
+C:\Users\Richard\Source\Repos\WebDemo\bin\Debug\netcoreapp2.1\WebDemo.deps.json
+C:\Users\Richard\Source\Repos\WebDemo\bin\Debug\netcoreapp2.1\WebDemo.runtimeconfig.json
+C:\Users\Richard\Source\Repos\WebDemo\bin\Debug\netcoreapp2.1\WebDemo.runtimeconfig.dev.json
+C:\Users\Richard\Source\Repos\WebDemo\bin\Debug\netcoreapp2.1\WebDemo.dll
+C:\Users\Richard\Source\Repos\WebDemo\bin\Debug\netcoreapp2.1\WebDemo.pdb
+C:\Users\Richard\Source\Repos\WebDemo\obj\Debug\netcoreapp2.1\WebDemo.csprojAssemblyReference.cache
+C:\Users\Richard\Source\Repos\WebDemo\obj\Debug\netcoreapp2.1\WebDemo.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Source\Repos\WebDemo\obj\Debug\netcoreapp2.1\WebDemo.RazorAssemblyInfo.cache
+C:\Users\Richard\Source\Repos\WebDemo\obj\Debug\netcoreapp2.1\WebDemo.RazorAssemblyInfo.cs
+C:\Users\Richard\Source\Repos\WebDemo\obj\Debug\netcoreapp2.1\WebDemo.AssemblyInfoInputs.cache
+C:\Users\Richard\Source\Repos\WebDemo\obj\Debug\netcoreapp2.1\WebDemo.AssemblyInfo.cs
+C:\Users\Richard\Source\Repos\WebDemo\obj\Debug\netcoreapp2.1\WebDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Richard\Source\Repos\WebDemo\obj\Debug\netcoreapp2.1\WebDemo.dll
+C:\Users\Richard\Source\Repos\WebDemo\obj\Debug\netcoreapp2.1\WebDemo.pdb
